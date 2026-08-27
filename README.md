@@ -2,11 +2,7 @@
 
 # Çiğdem Akcan
 
-### Backend Developer · Computer Engineer
-
-Java · Spring Boot · PostgreSQL · Docker
-
-<br>
+### Computer Engineer
 
 <a href="https://www.linkedin.com/in/%C3%A7i%C4%9Fdem-akcan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -24,7 +20,7 @@ Java · Spring Boot · PostgreSQL · Docker
 
 I build backend applications with **Java and Spring Boot**, working with REST APIs, relational databases, authentication and application security.
 
-I focus on building **maintainable, secure and well-structured backend systems** while continuously expanding my knowledge of the Spring ecosystem and modern backend technologies.
+I focus on building **maintainable, secure and well-structured backend systems** while expanding my knowledge of modern backend technologies.
 
 ---
 
@@ -67,19 +63,3 @@ I occasionally write about **Java, Spring Boot and backend development**, sharin
 <a href="https://medium.com/@cigdemakcan3">
   <img src="https://img.shields.io/badge/Read_on_Medium-000000?style=flat-square&logo=medium&logoColor=white" />
 </a>
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/%C3%A7i%C4%9Fdem-akcan">
-  <img src="https://img.shields.io/badge/LinkedIn-Çiğdem_Akcan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="https://medium.com/@cigdemakcan3">
-  <img src="https://img.shields.io/badge/Medium-@cigdemakcan3-000000?style=flat-square&logo=medium&logoColor=white" />
-</a>
-
-</div>
