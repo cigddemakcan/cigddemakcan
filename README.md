@@ -1,105 +1,85 @@
 <div align="center">
 
-# Hi, I'm Çiğdem 👋
+# Çiğdem Akcan
 
 ### Backend Developer · Computer Engineer
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+Backend+Development"
-  alt="Typing SVG"
-/>
+Java · Spring Boot · PostgreSQL · Docker
 
 <br>
 
 <a href="https://www.linkedin.com/in/%C3%A7i%C4%9Fdem-akcan">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@cigdemakcan3">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+---
+
+## 🔧 What I Build
+
+I build backend applications with **Java and Spring Boot**, working with REST APIs, relational databases, authentication and application security.
+
+I focus on building **maintainable, secure and well-structured backend systems** while continuously expanding my knowledge of the Spring ecosystem and modern backend technologies.
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 Featured Project
 
-I'm a Computer Engineering graduate focused on **backend development with Java and Spring Boot**.
+### ☁️ Cloud File Storage
 
-I enjoy building backend applications and working with **REST APIs, databases and application security**, while continuously improving my skills within the Spring ecosystem.
+A backend-focused cloud storage system built with **Spring Boot, PostgreSQL and MinIO**, designed around security, storage management and maintainability.
 
-<br>
+It includes JWT authentication with refresh tokens, storage quota management, soft delete and restore, shareable links, audit logging and scheduled permanent deletion.
 
----
+**Stack:**  
+`Java` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `MinIO` · `Docker` · `Testcontainers`
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
-
-<br><br>
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" />
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-111111?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-21262D?style=flat-square" />
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
-<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-</div>
-
-<br>
-
----
-
-## ✍️ Writing
-
-I occasionally write about **Java, Spring Boot and backend development**.
-
-<br>
-
-<a href="https://medium.com/@cigdemakcan3">
-  <img src="https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://github.com/cigddemakcan/cloud-file-storage">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+---
+
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Backend** | Java · Spring Boot · Spring Security · JPA / Hibernate |
+| **Architecture** | Layered Architecture · Microservices |
+| **Database & Cache** | PostgreSQL · SQL Server · Redis |
+| **Messaging** | Apache Kafka |
+| **Storage** | MinIO / S3 |
+| **Testing** | JUnit · Mockito · Testcontainers |
+| **DevOps & CI/CD** | Docker · Git · GitHub Actions · Azure DevOps |
+| **API & Tools** | REST APIs · Swagger / OpenAPI · Postman · IntelliJ IDEA |
+
+---
+
+## ✍️ Technical Writing
+
+I occasionally write about **Java, Spring Boot and backend development**, sharing concepts I explore while learning and building applications.
+
+<a href="https://medium.com/@cigdemakcan3">
+  <img src="https://img.shields.io/badge/Read_on_Medium-000000?style=flat-square&logo=medium&logoColor=white" />
+</a>
 
 ---
 
 <div align="center">
 
-### Let's Connect
-
 <a href="https://www.linkedin.com/in/%C3%A7i%C4%9Fdem-akcan">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Çiğdem_Akcan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+
+&nbsp;
 
 <a href="https://medium.com/@cigdemakcan3">
-  <img src="https://img.shields.io/badge/Medium-Follow-000000?style=flat-square&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-@cigdemakcan3-000000?style=flat-square&logo=medium&logoColor=white" />
 </a>
-
-<a href="https://github.com/cigddemakcan">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-<br><br>
 
 </div>
