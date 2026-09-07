@@ -48,7 +48,6 @@ It includes JWT authentication with refresh tokens, storage quota management, so
 | **Backend** | Java · Spring Boot · Spring Security · JPA / Hibernate |
 | **Architecture** | Layered Architecture · Microservices |
 | **Database & Cache** | PostgreSQL · SQL Server · Redis |
-| **Messaging** | Apache Kafka |
 | **Storage** | MinIO / S3 |
 | **Testing** | JUnit · Mockito · Testcontainers |
 | **DevOps & CI/CD** | Docker · Git · GitHub Actions · Azure DevOps |
